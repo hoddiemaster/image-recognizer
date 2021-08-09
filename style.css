@@ -1,0 +1,13 @@
+body {
+    color: chartreuse;
+    background-color: black;    
+}
+.heading {
+    width: 80%;
+    font-size: 23px;
+}
+#camera {
+    border: 5px ridge grey;
+    width: 350px;
+    height: 360px;
+}
